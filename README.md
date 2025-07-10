@@ -12,7 +12,7 @@ This is my first self-driven data analysis project, where I built a dashboard to
 ## 🛠 Tools & Technologies
 
 - Power BI (for dashboard design)
-- Power Query in Excel (for data transformation and cleaning)
+- Power Query (for transformation and data cleaning)
 - CSV Dataset: [Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## 📈 Dashboard Highlights
