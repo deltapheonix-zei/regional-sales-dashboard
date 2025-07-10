@@ -2,6 +2,10 @@
 
 This is my first self-driven data analysis project, where I built a dashboard to analyze and compare regional sales and profitability using the **Sample Superstore** dataset. The goal was to identify performance gaps and insights across Central, East, South, and West zones in the US.
 
+## 🖼 Dashboard Preview
+
+![Regional Performance Dashboard](screenshots/dashboard.png)
+
 ## 🔍 Project Objective
 
 - Clean and transform sales data using Power Query
